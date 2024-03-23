@@ -1,3 +1,4 @@
+I worked with Marie Huynh on this project and she sent me the code directly instead of pushing onto this github. She worked on building the eyegazing model.
 # Design Document: Ensemble Modeling of Multiple Physical Indicators to Dynamically Phenotype Autism
 
 This project aims at delivering a binary classification of ASD (ASD: 1, Neurotypical (NT) : 0) using **eye gazing**, **head pose** and **facial landmarks**. 
